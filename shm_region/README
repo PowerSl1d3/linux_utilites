@@ -1,0 +1,1 @@
+The program receives two id of shared memory segments as input, allocates one more and sums the elements of the first and second memory segments into its own segment

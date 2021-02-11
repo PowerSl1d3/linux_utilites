@@ -1,0 +1,1 @@
+a simple daemon that detaches from the parent process and attaches to the root directory

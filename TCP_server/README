@@ -1,0 +1,1 @@
+program getting port number and "listen" input connection. After connecting of client it get string from client, sorting, and send back to client

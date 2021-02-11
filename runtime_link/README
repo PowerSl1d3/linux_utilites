@@ -1,0 +1,1 @@
+NOTE: Be careful with "-Wl,-rpath,." - it's option passes option "-rpath ." to ld (at the linking stage) settings and sets the relative search paths for common objects
