@@ -1,0 +1,1 @@
+NOTE: After compiling library dont forget to add this directory to LD_LIBRARY_PATH=. variable!!!
